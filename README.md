@@ -1,4 +1,4 @@
-# OpenPlatform-Initiaive
+# OpenPlatform Initiaive
 
 Let the ramblings begin.
 
