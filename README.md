@@ -10,7 +10,7 @@ The OpenPlatform Initiative (OPI) is not:
 - a software development company -- although we promote the works that our member developers produce
 - TBD ...
 
-So, OPI is concerned with the rights of the **Users**. The end user's privacy is as important to us as the works that developers produce.
+So, OPI is concerned with the rights of the **Users**. The end user's privacy is as important to us as the works that **Developers** produce.
 
 As we develop a specification, we will insist that developers ensure a high standard of security and data protection is maintained. Also, that no software contians back doors or tracking mechanisms which can be transferred or communicated to external bodies - governments, corporations, NGOs, etc.
 
