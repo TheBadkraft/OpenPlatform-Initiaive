@@ -24,7 +24,8 @@ Languages the **_Initiative_** is interested in promoting (because no corporatio
 - Assembler
 - C (not C++)
 - Python
-- Lua
+- [Lua](https://www.lua.org/pil/contents.html#P4)
+- [Pike](https://pike.lysator.liu.se/)
 
 Why not C++, C#, or Java? Because C++ can be muddled and made very proprietary which is against the instincts of the **_Initiative_**. Not to mention, Microsoft likes to claim C++ and I'm not a huge fan of that technocratic giant (lump Meta, Google, and _fill in the blank_ in there while you're at it). C#, because Microsoft. And no Java because, well, Oracle. That doesn't mean there won't be useful libraries or offerings in those languages. They typically will not be given top billing, though.
 
