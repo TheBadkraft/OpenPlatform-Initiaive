@@ -21,11 +21,13 @@ The **_Initiative_** is also focused on Community - that is, developing social a
 Since the **_Initiative_** is concerned with providing developers the tool they need without licensing issues and restrictions from corporations, some useful tools might be development environments, graphics/drawing tools, compilers, editors, etc. These are generally fun (yet useful) projects developers can use to learn and expand their knowledge. For developers, we should see as much an environment of learning and teaching as we will collaboration and development. The **_Initiative_** is interested in developers of all levels being able to find something here. And, while creating a conducive, electric, and dynamic environment for creativity and development, it is imperative for users to recognize the **_Initiative_** as a top source for development talent, products, and services while focused on their privacy and rights.
 
 Languages the **_Initiative_** is interested in promoting (because no corporation is going to claim licensing or copyrights):
-- Assembler
-- C (not C++)
+- Assembler (FASM)
+- [C](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/c-programming/) (not C++)
 - Python
 - [Lua](https://www.lua.org/pil/contents.html#P4)
 - [Pike](https://pike.lysator.liu.se/)
+
+Plug-in architectures are a big part of the **_Initiative_**. Micro frameworks are going to be necessary tools and [learning how to open your app to plug-ins](https://eli.thegreenplace.net/2012/08/24/plugins-in-c) will be very important. Part of that is knowing how to [dynamically load libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/dl-libraries.html).
 
 Why not C++, C#, or Java? Because C++ can be muddled and made very proprietary which is against the instincts of the **_Initiative_**. Not to mention, Microsoft likes to claim C++ and I'm not a huge fan of that technocratic giant (lump Meta, Google, and _fill in the blank_ in there while you're at it). C#, because Microsoft. And no Java because, well, Oracle. That doesn't mean there won't be useful libraries or offerings in those languages. They typically will not be given top billing, though.
 
